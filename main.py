@@ -5,7 +5,7 @@ def capitalize(text):
 
 
 def main():
-    capitalize("hello")
+    capitalize('hello, hexlet!')
 
 
 if __name__ == '__main__':
